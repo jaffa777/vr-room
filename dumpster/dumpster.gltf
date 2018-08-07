@@ -116,8 +116,8 @@
 	[
 		{
 			"byteLength" : 109264,
-			"name" : "model",
-			"uri" : "model.bin"
+			"name" : "dumpster",
+			"uri" : "https://raw.githubusercontent.com/jaffa777/vr-room/master/dumpster/dumpster.bin"
 		}
 	],
 	"materials" : 
