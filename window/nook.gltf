@@ -195,7 +195,7 @@
 		{
 			"byteLength" : 169636,
 			"name" : "model",
-			"uri" : "model.bin"
+			"uri" : "https://raw.githubusercontent.com/jaffa777/vr-room/master/window/nook.bin"
 		}
 	],
 	"materials" : 
