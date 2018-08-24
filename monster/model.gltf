@@ -273,7 +273,7 @@
 		{
 			"byteLength" : 980956,
 			"name" : "model",
-			"uri" : "model.bin"
+			"uri" : "https://raw.githubusercontent.com/jaffa777/vr-room/master/monster/model.bin"
 		}
 	],
 	"materials" : 
